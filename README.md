@@ -1,4 +1,4 @@
-# Danske Scripts Oversat af oMarkez/xvkr
+# Danske Scripts Oversat af oMarkez/xvkr (Scripts ikke lavet af mig)
 
 
 Jeg har ikke lavet scriptsne, jeg har simpelthen bare oversat dem.
