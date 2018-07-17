@@ -7,4 +7,4 @@ Skriv gerne hvis scriptsne ikke virker, så skal jeg nok få dem fikset asap.
 
 Kom også gerne med nogle scripts i vil have oversat
 
-Discord: oMarkez#4434
+# Discord: oMarkez#4434
